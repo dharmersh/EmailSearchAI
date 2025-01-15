@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+sentence_transformers
+pandas
+langchain_openai
+transformers
+torch
+langchain-huggingface
+requests
+python-dotenv
